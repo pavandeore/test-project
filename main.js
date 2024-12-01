@@ -5,6 +5,9 @@ console.log("Addition is: ", a + b);
 let c = 10;
 console.log("Subtraction is: ", c - a);
 
+let d = 2;
+console.log("Multiplication is: ", a * d);
+
 /*
 
 We do changes /  create new files []working area
