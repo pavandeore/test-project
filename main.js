@@ -8,17 +8,17 @@ console.log("Subtraction is: ", c - a);
 let d = 2;
 console.log("Multiplication is: ", a * d);
 
-function calculator(a, b, operation) {
-    if (operation === "add") {
-        return a + b;
-    } else if (operation === "sub") {
-        return a - b;
-    } else if (operation === "mul") {
-        return a * b;
-    } else {
-        return "Invalid operation";
-    }
-}
+// function calculator(a, b, operation) {
+//     if (operation === "add") {
+//         console.log(a + b);
+//     } else if (operation === "sub") {
+//         console.log(a - b);
+//     } else if (operation === "mul") {
+//         console.log(a * b);
+//     } else {
+//         console.log("Invalid operation");
+//     }
+// }
 
 console.log("Addition is: ", calculator(3, 5, "add"));
 console.log("Subtraction is: ", calculator(10, 3, "sub"));
