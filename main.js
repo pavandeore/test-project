@@ -10,13 +10,13 @@ console.log("Multiplication is: ", a * d);
 
 // function calculator(a, b, operation) {
 //     if (operation === "add") {
-//         return a + b;
+//         console.log(a + b);
 //     } else if (operation === "sub") {
-//         return a - b;
+//         console.log(a - b);
 //     } else if (operation === "mul") {
-//         return a * b;
+//         console.log(a * b);
 //     } else {
-//         return "Invalid operation";
+//         console.log("Invalid operation");
 //     }
 // }
 
